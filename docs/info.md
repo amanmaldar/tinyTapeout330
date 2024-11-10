@@ -10,11 +10,19 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 Explain how your project works
+Added 1 AND gate and 1 NOT gate for testing.
+
+AND gate is IN0 and IN1 as input. OUT1 is output.
+
+NOT gate has IN2 as input. OUT2 is output. 
 
 ## How to test
 
-Explain how to use your project
+Explain how to use your project.
+check AND gate truth table.
+check NOT gat truth table
 
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+OUT1 and OUT2 drives LED
